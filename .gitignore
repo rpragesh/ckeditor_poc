@@ -31,6 +31,8 @@ log.txt
 
 # Node
 /node_modules
+/ckeditor5/node_modules
+
 npm-debug.log
 yarn-error.log
 
@@ -63,6 +65,8 @@ yarn-error.log
 testem.log
 /typings
 
+
 # System files
 .DS_Store
 Thumbs.db
+
