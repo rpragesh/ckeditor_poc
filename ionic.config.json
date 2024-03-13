@@ -1,0 +1,7 @@
+{
+  "name": "editor_poc",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
